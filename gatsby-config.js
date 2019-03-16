@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Đoàn Bình và Tâm Ý Thiện Niệm',
-    siteUrl: 'https://mitobinh.club/',
+    siteUrl: 'https://apk4downloader.com',
     rssFeedTitle: 'tamythienniem',
     rssFeedDescription: 'Đoàn Bình và Tâm Ý Thiện Niệm, đức phật dạy làm người',
   },
