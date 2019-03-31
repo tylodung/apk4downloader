@@ -1,5 +1,5 @@
 ---
-title: Chúng ta mất 2 năm để HỌC NÓI nhưng phải mất cả đời để học IM LẶNG
+title: Chúng ta mất 2 năm để Học Nói nhưng phải mất cả đời để học Im Lặng
 author: [sophiebits]
 ---
 
@@ -33,6 +33,5 @@ Tai con người cũng rất kỳ, nó hướng ra nghe bên ngoài mà quên ng
 
 Học lắng nghe để đừng rơi vào ảo tưởng của hoa mỹ giả dối, để đừng giận ghét người có tâm, để cúi đầu học hỏi được điều hay, để tránh được cạm bẫy như viên đạn bọc đường, để lưỡi không liếm lên lưỡi dao sắc nhọn quết đầy mật ngọt. Học lắng nghe để nghe thấy tâm mình đang sôi sục, lương tâm đang day dứt, lý trí đang vẫy vùng. Học lắng nghe để nói ít hơn, để thấu hiểu, để cảm thông.
 
-Ta đã học nói xong từ năm 3 tuổi rồi, đến lúc học im lặng và học cách lắng nghe thôi, kẻo muộn mất!.
+Ta đã học nói xong từ năm 3 tuổi rồi, đến lúc học im lặng và học cách lắng nghe thôi, kẻo muộn mất!
 
-*Theo Giacngo​*

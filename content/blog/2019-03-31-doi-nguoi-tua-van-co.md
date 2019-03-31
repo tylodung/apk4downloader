@@ -1,5 +1,5 @@
 ---
-title: Đời người tựa ván cờ THÀNH CÔNG hay THẤT BẠI đều nằm ở tâm thái
+title: Đời người tựa ván cờ Thành Công hay Thất Bại đều nằm ở tâm thái
 author: [gaearon]
 ---
 Trong cuộc sống, có những người dù có tài và học thức cao nhưng vẫn không thành công, có những người tuy rất bình thường nhưng vẫn luôn đạt được. Chuyện thành – bại, được – mất phụ thuộc rất lớn vào tâm thái của mỗi người…
@@ -38,4 +38,3 @@ Chúng ta làm việc cần dựa vào nhân phẩm, nhưng kiêng kị nhất l
 
 Phàm là người thông minh đều có những tính toán rất giỏi, nhưng kết quả cuối cùng lại thường không như ý muốn. Những người này thường oán trời trách đất, nhưng không mấy ai biết rằng trong sự tính toán đều là muốn chiếm lợi cho mình, mang theo cái tâm bất thiện với người khác, cho nên, vận mệnh không thể khởi sắc được, mà tâm trí cũng chẳng có ngày nào được an vui.
 
-*Tuệ Tâm biên dịch*

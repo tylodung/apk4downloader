@@ -1,5 +1,5 @@
 ---
-title: DUYÊN PHẬN là gì
+title: Duyên Phận là gì
 author: [josephsavona]
 ---
 

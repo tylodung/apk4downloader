@@ -1,5 +1,5 @@
 ---
-title: 8 nguyên nhân dẫn tới ÁC NGHIỆP phải chịu quả báo lớn nhất
+title: 8 nguyên nhân dẫn tới Ác Nghiệp phải chịu quả báo lớn nhất
 author: [acdlite]
 ---
 
