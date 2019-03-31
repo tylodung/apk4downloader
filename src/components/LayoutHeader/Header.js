@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Tâm Niệm Ý Phật
+            Thiện Nam Apk4
           </span>
         </Link>
 
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://mitobinh.club/"
+            href="https://apk4downloader.com/"
             target="_blank"
             rel="noopener">
             Home

@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Đoàn Bình và Tâm Ý Thiện Niệm',
+    title: 'Đoàn Bình và Thiện Nam',
     siteUrl: 'https://apk4downloader.com',
     rssFeedTitle: 'tamythienniem',
-    rssFeedDescription: 'Đoàn Bình và Tâm Ý Thiện Niệm, đức phật dạy làm người',
+    rssFeedDescription: 'Đoàn Bình và Thiện Nam',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',

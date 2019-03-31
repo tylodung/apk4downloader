@@ -42,7 +42,7 @@ class Home extends Component {
 
   render() {
     const {data} = this.props;
-    const title = 'Đoàn Bình và Tâm Niệm Ý Phật';
+    const title = 'Đoàn Bình và Thiện Nam';
 
     return (
       <div css={{width: '100%'}}>
@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Tâm Niệm Ý Phật
+                Thiện Nam An Lành
               </h1>
               <p
                 css={{
@@ -114,7 +114,7 @@ class Home extends Component {
                     fontSize: 30,
                   },
                 }}>
-                Một lòng ăn chay niệm phật, tâm trong sáng.
+                Một Lòng Thiện Lành, Tâm Trong Sáng...
               </p>
               <Flex
                 valign="center"
@@ -126,12 +126,12 @@ class Home extends Component {
                   },
                 }}>
                 <CtaItem>
-                  <ButtonLink to="/blog/all.html" type="primary">
+                  <ButtonLink to="/blog/" type="primary">
                     Bắt đầu
                   </ButtonLink>
                 </CtaItem>
                 <CtaItem>
-                  <ButtonLink to="/blog/all.html" type="secondary">
+                  <ButtonLink to="/blog/" type="secondary">
                     Xem những bài giảng
                   </ButtonLink>
                 </CtaItem>
@@ -157,12 +157,12 @@ class Home extends Component {
           <Container>
             <Flex valign="center">
               <CtaItem>
-                <ButtonLink to="/blog/all.html" type="primary">
+                <ButtonLink to="/blog/" type="primary">
                   Bắt đầu
                 </ButtonLink>
               </CtaItem>
               <CtaItem>
-                <ButtonLink to="/blog/all.html" type="secondary">
+                <ButtonLink to="/blog/" type="secondary">
                   Thánh Hiền viết
                 </ButtonLink>
               </CtaItem>
