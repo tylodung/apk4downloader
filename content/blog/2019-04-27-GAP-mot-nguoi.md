@@ -1,11 +1,10 @@
 ---
-title: Gặp một người là tăng thêm một NHÂN DUYÊN
-author: [sebmarkbage]
+title: Gặp một người là tăng thêm một Nhân Duyên
+author: [doanbinh]
 ---
 
 Theo lời Phật dạy, giữa người với người luôn tồn tại một mối nhân duyên từ kiếp trước, vì vậy, trong cuộc sống này, khi ta gặp và yêu thương một ai đó đều có nguyên do.
 
-![ten buc hinh](http://drive.tinhhoa.net/http/1200x1200/tinhhoa.net-/24zt6c-20170607-nhung-cau-noi-khien-nguoi-ta-phai-gat-dau-tam-dac-con-ban-thay-sao.jpg "ten buc hinh")
 
 Người yêu quý bạn mang đến cho bạn sự ấm áp và lòng can đảm – dũng khí.
 
@@ -39,7 +38,6 @@ Tất cả tùy duyên, duyên sâu đậm thì quấn quýt đoàn tụ, duyên
 
 Đời người, có thể xem nhẹ, xem nhạt được bao nhiêu thì thống khổ sẽ càng rời cách xa bạn bấy nhiêu.
 
-![ten buc hinh](http://drive.tinhhoa.net/http/1200x1200/tinhhoa.net-/tP5ZW1-20170607-nhung-cau-noi-khien-nguoi-ta-phai-gat-dau-tam-dac-con-ban-thay-sao.jpg "ten buc hinh")
 
 Người người đều lo sợ bản thân có lúc không minh mẫn thanh tỉnh, mong sao tự tâm mình được sáng như gương. Kỳ thực đời người sao lại cần phải quá tỉnh táo?
 
@@ -54,6 +52,7 @@ Trong xử sự cần 3 phần vì mình, 7 phần vì người.
 Đọc văn chương cần đặt 3 phần là hình thức, 7 phần ở chất lượng nội dung.
 
 Uống rượu thì cần 3 phần say, 7 phần tỉnh.
+
 Trong kinh, đức Phật đã nói bốn loại nhân duyên.
 
 Tất cả chúng ta có mặt với nhau ở đây không phải tự nhiên mà do có nhân duyên với nhau nhiều đời nên nay mới gặp. Có người mình chưa bao giờ biết, nhưng vừa gặp thì thấy thân thiện, quen quen, như đã gặp ở đâu rồi. Có người vừa mới gặp là đã thấy ghét. Đó là dấu hiệu cho thấy mình đã có duyên với nhau từ nhiều kiếp trước, bây giờ mới gặp lại đây.

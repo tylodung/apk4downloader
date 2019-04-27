@@ -1,6 +1,6 @@
 ---
-title: Để có tướng mạo XINH ĐẸP và PHÚC HẬU
-author: [zpao]
+title: Để có tướng mạo Xinh Đẹp và Phúc Hậu
+author: [doanbinh]
 ---
 
 Có những người mới sinh ra đã không có được tướng mạo xinh đẹp, nhưng khi về già lại trở nên xinh đẹp. Vậy nguồn gốc khuôn mặt tuổi thiếu niên, thanh niên ở đâu? Làm thế nào để có tướng mạo xinh đẹp?
@@ -34,5 +34,3 @@ Không giành là từ bi, không biện là trí tuệ, không nghe là thanh t
 **8.** Nội tâm không loạn, không khổ vì tình, không sợ tương lai, không giữ quá khứ.
 
 **9.** Kiếp này, bất kể thứ gì cũng sẽ không mang đi được, vậy nên hãy sống với hiện tại, cười với hiện tại, và hãy ngộ ngay bây giờ!
-
-*Lục Anh (St)​*
