@@ -1,11 +1,11 @@
 ---
-title: Bạn đang tìm HẠNH PHÚC ở nơi nào xa vậy
-author: [sophiebits]
+title: Bạn đang tìm Hạnh Phúc ở nơi nào xa vậy
+author: [doanbinh]
 ---
 
 Sống ở đời ai cũng có phiền muộn, hàng ngày đều có, quan trọng nhất là bạn đối đãi nó ra sao. Phiền não ở ngay đó, nhưng nếu ta không tự tay nhặt lên thì đâu phải u sầu nhiều đến vậy?
 
-![ten buc hinh](http://2.tinhhoa.net/wpcontent/uploads/2014/08/slider02.jpg "ten buc hinh")
+![ten buc hinh](https://file.hstatic.net/1000237748/file/gap-chuyen-khong-vui-niem-3-cau-nay-long-ban-se-nhe-nhang-thanh-than_grande.jpg "ten buc hinh")
 
 Buồn phiền, sầu não trong đời ai chẳng từng trải qua? Mỗi ngày đi qua có biết bao phiền não lưu lại trong lòng, chuyện hôm qua như nước chảy về đông không sao giữ lại được. Làm thế nào để tìm được khoảnh khắc bình yên giữa muôn trùng đêm đen giông tố?
 
@@ -35,7 +35,6 @@ Sống vui vẻ mới là tốt nhất, chẳng việc gì phải để ý tiề
 
 **2. Tài sản quý giá nhất là sức khỏe**
 
-![ten buc hinh](http://2.tinhhoa.net/wpcontent/uploads/2014/08/maxresdefault108.jpg "ten buc hinh")
 
 Khi sinh mệnh của con người chấm dứt, đến lúc sự sống không thể cứu vãn được nữa thì tiền tài là gì, danh vọng là chi, thảy đều vô nghĩa. Truy cầu giàu có khiến người tham lam, biến thành ác quỷ. Trong mắt người sắp từ giã cõi đời, những gì gọi là danh phận, địa vị, tiền bạc, trang sức, mỹ nữ đều chỉ là một đống rác mà thôi.
 
@@ -53,4 +52,3 @@ Vì vậy cũng đừng mang máy tính ra tính rằng bạn đã tiêu bao nhi
 
 Chiếc giường đắt nhất trên thế giới chính là giường bệnh. Trên thế giới này có thể có người lái xe thay bạn, kiếm tiền thay bạn, nhưng không có ai mắc bệnh thay bạn được. Đồ mất rồi đều có thể tìm thấy lại nhưng có một thứ mất đi là vĩnh viễn không còn tìm thấy, đó chính là sinh mệnh.
 
-*Theo Daikynguyenvn*

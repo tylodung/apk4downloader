@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Thiện Nam Apk4
+            Tấm Lòng Son
           </span>
         </Link>
 
