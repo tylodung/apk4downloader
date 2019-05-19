@@ -1,11 +1,10 @@
 ---
-title: Phật dạy về 10 lợi ích của việc tu tập TÂM TỪ
-author: [jimfb]
+title: 10 lợi ích của việc tu tập Tâm Từ
+author: [doanbinh]
 ---
 
 Người có tâm Từ gương mặt tươi sáng vì gương mặt là phản ảnh của nội tâm.
 
-![ten buc hinh](http://cdnnews.9phut.com/ImagesNews/2016/11/03/21024.jpg "ten buc hinh")
 
 Lúc giận, máu trong cơ thể chạy mau gấp đôi ba lần lúc bình thường, trở nên nóng, dồn lên làm đỏ mặt tía tai. Tâm Từ trái lại làm cho tinh thần vui vẻ, thân có cảm giác thoải mái an lành, máu được thanh lọc trong sạch và gương mặt hiền từ dễ mến.
 
@@ -22,10 +21,15 @@ Khi nhìn vào gương, nếu mặt ta vui vẻ hiền lành, phản ảnh của
 Một thi hào người Anh đã viết ra những dòng thơ rất đẹp đẽ và thâm thúy, có nhiều ý nghĩa:
 
 "Tôi nhìn anh tôi qua Kính Hiển Vi của sự Chỉ Trích
+
 Và tôi nói, "Anh tôi quả thật thô lỗ!"
+
 Nhìn anh tôi qua Kính Viễn Vọng của sự Khinh Bỉ
+
 Và tôi nói, "Anh tôi quả thật bé nhỏ thấp hèn!"
+
 Rồi tôi nhìn vào 'Tấm Gương Chân Lý'
+
 Và tôi nói, "Anh tôi thật giống hệt như tôi!"
 
 Trong con người tốt nhất cũng có những điểm khiếm khuyết, mà trong con người xấu nhất cũng có những điểm tốt. Tại sao ta chỉ tìm phần xấu xa tội lỗi mà không để ý đến phần tốt của người? Nếu mỗi người đều nhìn vào phần tốt đẹp của nhau, nhân loại đã tìm được nguồn hạnh phúc dồi dào vậy.

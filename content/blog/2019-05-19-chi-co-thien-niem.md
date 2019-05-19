@@ -1,11 +1,10 @@
 ---
-title: Chỉ THIỆN NIỆM mới có thể cảm hoá lòng người
-author: [zpao]
+title: Chỉ Thiện Niệm mới có thể cảm hoá lòng người
+author: [doanbinh]
 ---
 
 Phật gia giảng rằng, con người hễ khởi thiện niệm trong tâm, thì thiện lương ấy có thể rung chuyển đất trời, cảm hoá lòng người, làm cảm động cả những kẻ cường bạo nhất. Dưới đây là hai câu chuyện như thế.
 
-![ten buc hinh](http://www.daikynguyenvn.com/wp-content/uploads/2017/09/1185841_658470327511591_709119059_n.jpg "ten buc hinh")
 
 Thiền sư Sengai có một đệ tử hư hỏng hay phá giới, đêm đêm thường leo tường trốn ra ngoài chơi. Vị thiền sư biết được điều đó nên vào đêm nọ, sau khi phát hiện người đệ tử vượt tường bằng cách leo lên một chiếc ghế khá cao, vị thiền sư đi đến vị trí đặt ghế, nhấc chiếc ghế bỏ sang bên rồi đứng vào chỗ đó.
 
@@ -45,12 +44,8 @@ A Na Luật trang nghiêm trả lời:
 
 Lời nói từ bi của tôn giả đánh thức lương tâm của bọn cướp, chúng liền vứt khí giới, bỏ lòng hung ác, bản chất thuần thiện hiện bày. Họ cùng sám hối sửa đổi và lãnh thọ lời chỉ dạy của tôn giả, sau đó phát nguyện quy y Phật, thay lòng đổi mặt làm người tử tế.
 
-![ten buc hinh](http://www.daikynguyenvn.com/wp-content/uploads/2017/09/angulimala-1.jpg "ten buc hinh")
-
 Sáng hôm sau, A Na Luật bảo bọn cướp đem hết tài sản trả cho dân chúng, những gia đình bị mất cướp đều cảm tạ tôn giả, cũng nguyện quy y Phật, vâng theo lời Phật.
 
 Chỉ có từ bi khoan dung mới có thể cảm hóa được nhân tâm con người. Thay vì đẩy họ đến đường cùng, vị tôn giả đã dùng tấm lòng bao dung mà thay đổi được cả một cuộc đời, đem lại cuộc sống bình yên cho dân chúng!
 
 Phật gia giảng rằng, khi Phật tính vừa xuất hiện sẽ làm chấn động mười phương thế giới, so với vàng còn sáng hơn. Trên đời này không có chuyện gì là lạc lối không thể quay đầu lại mà cũng không có chuyện gì là sai lầm không thể sửa chữa, chỉ cần trong người đó còn có thiện lương, một khi Phật tính xuất ra thì nhất định sẽ có con đường để trở về.
-
-*Chân Tâm - Đại Kỷ Nguyên​*
