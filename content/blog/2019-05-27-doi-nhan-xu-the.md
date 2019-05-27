@@ -1,5 +1,5 @@
 ---
-title: Học cách ĐỐI NHÂN XỬ THẾ như thế nào để cả đời được lợi
+title: Học cách Đối Nhân Xử Thế như thế nào để cả đời được lợi
 author: [sophiebits]
 ---
 
@@ -33,4 +33,3 @@ Công việc mà bạn dự định làm nên giữ lời giữ kẽ, không ph�
 
 Đối nhân xử thế như thế nào do bản thân mỗi người, nhưng cần lấy đạo đức làm nguyên tắc đầu tiên. Dù cuộc sống có vội vã, gam màu tối còn đâu đó nhưng nếu bạn kiên trì thì bạn sẽ nhận được sự kính trọng của mọi người, và hơn hết lòng bạn cảm thấy thanh thản, bình dị. 
 
-*Văn Long - Theo Đại Kỷ Nguyên*

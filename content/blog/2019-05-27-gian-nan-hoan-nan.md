@@ -1,6 +1,6 @@
 ---
-title: Gian nan hoạn nạn mới biết được LÒNG NGƯỜI
-author: [sophiebits]
+title: Gian nan hoạn nạn mới biết được Lòng Người
+author: [doanbinh]
 ---
 
 Có câu rằng: “Lúc gian nan hoạn nạn mới hiểu được lòng người!” Cuộc đời chính là như thế, thông thường chỉ khi rơi vào khó khăn, bế tắc, chúng ta mới biết được ai thực sự là bạn, là người yêu thương, là người thân của mình. 
@@ -37,4 +37,3 @@ Tình bạn, không phải có địa vị tiền tài mới đến bên nhau, q
 
 Ở bên nhau lâu ngày, không nhất định sinh ra tình cảm, nhưng nhất định sẽ biết được lòng người! Con người luôn ở lúc sau khi mất đi thì mới nhận ra điều gì là tốt đẹp, đáng trân quý.
 
-*Mai Trà biên dịch*

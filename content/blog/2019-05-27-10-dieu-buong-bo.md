@@ -1,6 +1,6 @@
 ---
 title: 10 điều đáng BUÔNG BỎ nhất để cuộc đời an nhàn và phú quý
-author: [zpao]
+author: [doanbinh]
 ---
 
 Có những điều, nếu khư khư ôm lấy trong lòng chỉ khiến bạn thêm phiền muộn, đau khổ mà thôi. Dưới đây là 10 điều người xưa răn nhất định phải học cách buông.
