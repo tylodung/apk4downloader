@@ -1,11 +1,11 @@
 ---
-title: Người THÔNG MINH sẽ không nói 4 lời này
-author: [zpao]
+title: Người Thông Minh sẽ không nói 4 lời này
+author: [doanbinh]
 ---
 
 Người xưa vẫn thường nói: “Cái miệng hại cái thân”, một lời nói vô ý có thể gây xung đột hiểm họa, một lời nói nóng giận có thể làm hỏng cả một cuộc đời. Vậy nên, người thông minh cần phải biết kiểm soát cái miệng của mình, có những lời không thể tùy tiện nói.
 
-![ten buc hinh](http://drive.tinhhoa.net/http/1200x1200/tinhhoa.net-/dpv9Rv-20161206-nguoi-thong-minh-se-khong-noi-4-loi-nay-noi-ra-tat-hai-chinh-minh.jpg "ten buc hinh")
+![ten buc hinh](https://2.bp.blogspot.com/-nspzXF3iUGY/WEoCI5ym5JI/AAAAAAAAKLo/5vrXz5D2HqorRB4QeWLAJ8u18Iz8vZHBgCLcB/s1600/nguoi-thong-minh-se-khong-noi-4-loi-nay-noi-ra-tat-hai-chinh-minh-hinh-anh.jpg "ten buc hinh")
 
 **1. Nói lời oán hận**
 
@@ -23,7 +23,6 @@ Dưới sự khống chế của loại cảm xúc bi quan này, rất dễ nói
 
 Nhưng đối với người nghe mà nói, tất sẽ sinh ra những ảnh hưởng tiêu cực. Lâu dần, ai còn dám thân thiết với bạn nữa đây?
 
-![ten buc hinh](http://drive.tinhhoa.net/http/1200x1200/tinhhoa.net-/QCya3O-20161206-nguoi-thong-minh-se-khong-noi-4-loi-nay-noi-ra-tat-hai-chinh-minh.jpg "ten buc hinh")
 
 **3. Nói chuyện phiếm**
 
@@ -40,5 +39,3 @@ Bạn đã có thể thành công, chứng tỏ trong phương diện này bạn
 Lời ngông cuồng càng không thể nói, cần phải biết: *“Thiên ngoại hữu thiên, nhân ngoại hữu nhân”*, người giỏi còn có người giỏi hơn, cao thủ chân chính xưa nay đều là những người im lặng không mấy nổi trội. Người thông minh đều biết thu hồi lại hào quang của chính mình.
 
 Nỗ lực, mới là thái độ đúng đắn để làm người! Tin rằng, bạn có thể kiên trì, cố gắng, đến một ngày bạn cũng sẽ được thành công như mong đợi!
-
-*Tuệ Tâm, theo Cmone - Theo Tinh Hoa​*

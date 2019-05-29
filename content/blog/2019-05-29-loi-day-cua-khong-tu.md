@@ -1,10 +1,10 @@
 ---
 title: Những lời dạy quý giá của Đức Khổng Tử
 
-author: [nhunzaker]
+author: [doanbinh]
 ---
 
-Đọc hết mới là kẻ trọng đạo lý, hiểu hết mới mong có nhân cách hơn người
+Đọc hết mới là kẻ trọng đạo lý, hiểu hết mới mong có nhân cách hơn người..
 
 ![ten buc hinh](http://ngocchinh.com/wp-content/uploads/2015/05/loi-day-cua-khong-tu-800x350.jpg "ten buc hinh")
 
@@ -58,4 +58,4 @@ Nghèo hèn bởi tự ti
 
 Ngu si vì tự phụ
 
-Tài đức cao hơn phú
+Tài đức cao hơn phú.

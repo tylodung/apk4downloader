@@ -1,12 +1,12 @@
 ---
 title: Những lời dạy quý giá của Đức Khổng Tử 3
 
-author: [gaearon]
+author: [doanbinh]
 ---
 
-Đọc hết mới là kẻ trọng đạo lý, hiểu hết mới mong có nhân cách hơn người
+Đọc hết mới là kẻ trọng đạo lý, hiểu hết mới mong có nhân cách hơn người...
 
-![ten buc hinh](http://www.gieovagat.com/wp-content/uploads/2017/04/khong-tu-gieovagat.jpg "ten buc hinh")
+![ten buc hinh](https://matongvietnam.com/Uploads/News/29052017/loi-day-cua-duc-khong-tu-phan-1.jpg "ten buc hinh")
 
 *(Tiếp theo)*
 
@@ -100,7 +100,6 @@ Biết suy nghĩ sâu xa.
 
 Con người ta sinh ra lớn lên già cả rồi bệnh tật mất đi. Cát bụi lại trở về cát bụi. Âu cũng là quy luật thường tình của một kiếp người. Sinh, lão, bệnh, tử vốn là như vậy. Tuổi trung niên đã có những bước thăng trầm trong cuộc sống, có những thành công, có những thất bại trong cuộc sống vật chất, cuộc sống tình cảm đôi lứa. Đi qua rồi ngẫm lại mới thấy rằng kinh nghiệm cuộc sống đường đời sẽ mãi là những bài học mới cho tất cả chúng ta, dù ở địa vị nào, số phận nào đi chăng nữa. Sang hèn trong kiếp con người ta, không hơn thì cố gắng bằng người. Các bậc tiền bối dạy đời bằng một quá trình đúc kết kinh nghiệm cuộc sống chắt lọc từ thực tế mà nên triết lý sống.
 Ngẫm lại thời gian trôi đi như thoi đưa, không biết bao giờ mới về với ngày xưa ơi, để rồi cùng ôn lại những kỷ niềm thời niên thiếu có buồn, vui, sướng, khổ, có điều ngây thơ, trong trắng chưa vương vấn bụi đường đời…
-Nếu bạn sưu tầm được những lời dạy, câu nói hoặc những bài thơ hay khác của Khổng Tử, hãy chia sẽ cho Chính bằng cách bình luận bên dưới nhé!
 
-*(Nội dung Chính sưu tập từ nhiều nguồn)*
+Nếu bạn sưu tầm được những lời dạy, câu nói hoặc những bài thơ hay khác của Khổng Tử, hãy chia sẽ cho Chính bằng cách bình luận bên dưới nhé!
 
