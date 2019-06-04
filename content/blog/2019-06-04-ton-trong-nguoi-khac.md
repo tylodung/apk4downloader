@@ -1,10 +1,12 @@
 ---
 title: Tôn Trọng người khác chính là tôn trọng chính mình
 layout: post
-author: [steveluscher]
+author: [doanbinh]
 ---
 
-Trong cuộc sống hàng ngày, chúng ta thường nghe thấy người lớn trách mắng con cháu rằng: “Không biết kính trọng cha mẹ” hay hai người trách nhau rằng: “Anh không tôn trọng tôi!”, người chủ mắng nhân viên rằng không biết tôn trọng chủ, còn nhân viên lại trách rằng ông chủ không tôn trọng mình… Vậy rốt cuộc, “tôn trọng” được hiểu là gì?
+Trong cuộc sống hàng ngày, chúng ta thường nghe thấy người lớn trách mắng con cháu rằng: 
+
+“Không biết kính trọng cha mẹ” hay hai người trách nhau rằng: “Anh không tôn trọng tôi!”, người chủ mắng nhân viên rằng không biết tôn trọng chủ, còn nhân viên lại trách rằng ông chủ không tôn trọng mình… Vậy rốt cuộc, “tôn trọng” được hiểu là gì?
 
 ![ten buc hinh](http://vanhoaphatgiaovietnam.net/asset/upload/y/20150824191239-business-people-respect-japanese-culture.jpeg "ten buc hinh")
 

@@ -1,6 +1,6 @@
 ---
 title: Khổng Tử dạy học trò cứu sống được 4 mạng người
-author: [vjeux]
+author: [doanbinh]
 ---
 
 Tại sao Khổng Tử dạy học trò 3x8=23 mà lại có thể cứu sống được 4 mạng người?
