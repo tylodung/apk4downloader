@@ -1,8 +1,12 @@
 ---
-title: 12 LỜI NGUYỆN CỦA BỒ TÁT QUÁN THẾ ÂM
-author: [zpao]
+title: 12 Lời Nguyện Của Bồ Tát Quán Thế Âm
+author: [doanbinh]
 ---
+Quán Thế Âm Bồ Tát vốn là một vị Cổ Phật, danh hiệu Chánh Pháp Minh Như Lai, đã tu đắc thần thông quảng đại từ vô hồi vô tận các kiếp trước. Ngài vì nguyện từ bi hóa thân thành Bồ Tát để đưa người về bến giác, cứu khổ tầm thanh, làm cho một đời người biết đến chánh pháp được an vui.
 
+![ten buc hinh](https://sites.google.com/site/phatphaptinhtong/_/rsrc/1386694776260/bo-tat-quan-the-am/12-dai-nguyen-cua-bo-tat-quan-the-am/1.jpg?height=400&width=341 "ten buc hinh")
+
+Quán Thế Âm Bồ Tát đã phát ra 12 đại nguyện, mỗi nguyện đều chứa vô lượng công đức tỏa hào quang sáng chói chiếu khắp 10 phương thế giới. Trong văn hóa và Phật giáo Việt Nam, Quán Thế Âm Bồ Tát là một trong những vị Bồ Tát được thờ cúng, kính ngưỡng nhiều nhất, cũng như được sự thành kính, sùng bái nhất của Phật tử và người dân.
 
 1. Nam Mô hiệu Viên-Thông, danh Tự Tại, Quan-Âm Như Lai quảng-phát hoằng thệ nguyện. (Lạy) Được xưng tặng là hiểu biết đầy đủ thông dong hoàn toàn, Ngài đem pháp tu hành mà khuyên độ khắp cùng.
 
@@ -75,5 +79,3 @@ Di Đà thọ ký Cảnh Tây Phương, tuổi thọ khôn lường Chúng sanh 
 **Nguyện Thứ Mười Hai:**
 
 Tu hành tin tấn Dù thân nầy tan nát cũng đành Thành tâm nghiêm chỉnh thực hành Mười hai câu nguyện độ sanh đời đời.
-
-<figure><iframe width="650" height="400" src="//www.youtube-nocookie.com/embed/cFAO3EnhzF4" frameborder="0" allowfullscreen></iframe></figure>
